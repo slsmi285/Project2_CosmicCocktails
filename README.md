@@ -46,8 +46,8 @@ Nodejs
 Boilerplate Template/MVC Controllers
 :   Sections of code that have to be included in many places with little or no alteration, using the MVC pattern. 
 
-        Express/Handlebars
-        :   Used with Boilerplate, its minimal, its powerful and blends well with express.
+Express/Handlebars
+:   Used with Boilerplate, its minimal, its powerful and blends well with express.
 
 Passport-Local - 
 :   The popular authentication middleware for Node, together with Sequelize and MySQL to implement user registration and login.
@@ -58,7 +58,7 @@ Sequel/Sequelize
 Bootstrap
 :   Front-End Framework
 
-Project Link: [Cosmic Cocktails](://github.com/your_username/repo_name)
+Project Link: [Cosmic Cocktails](https://slsmi285.github.io/Project2_CosmicCocktails/)
 Live on [Heroku](https://****.herokuapp.com/)
 
 
