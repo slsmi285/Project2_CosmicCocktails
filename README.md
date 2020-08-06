@@ -35,7 +35,7 @@ Made as part of the Vanderbilt University coding bootcamp made by Adam Wolff, Co
 ![SignIn Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SignIn_RegisterPage.PNG)
 
 
-![Favorites Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
+![Favorites Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/favoritesPage.PNG)
 
 
 ![Terminal Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/terminal%20log.PNG)
