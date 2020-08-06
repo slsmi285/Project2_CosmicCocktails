@@ -26,25 +26,25 @@ Made as part of the Vanderbilt University coding bootcamp made by Adam Wolff, Co
 *A picture is worth a thousand words...*
 
 
-![Home Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SearchPage_results.PNG)
+![Home Page][HOME/SEARCH PAGE](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SearchPage_results.PNG)
 
 
-![Results Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/ResultsPage.PNG)
+![Results Page][RESULTS PAGE](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/ResultsPage.PNG)
 
 
-![SignIn Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SignIn_RegisterPage.PNG)
+![SignIn Page][SIGN IN-REGISTER PAGE](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SignIn_RegisterPage.PNG)
 
 
-![Favorites Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
+![Favorites Page][FAVORITES PAGE](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
 
 
-![Terminal Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/terminal%20log.PNG)
+![Terminal Page][TERMINAL LOGS](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/terminal%20log.PNG)
 
 
-![DB Users](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Users.PNG)
+![DB Users][SQL DB: USERS](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Users.PNG)
 
 
-![DB Favorites](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
+![DB Favorites][SQL DB: FAVORITES](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
 
 
 ## Built With
