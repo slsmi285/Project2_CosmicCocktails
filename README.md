@@ -27,12 +27,19 @@ Made as part of the Vanderbilt University coding bootcamp made by Adam Wolff, Co
 
 **Product Name Screen Shot**
 
-![Home Page](HomePage.png)
-![SignIn Page](SignInPage.png)
-![Favorites Page](FavoritesPage.jpg)
-![Terminal Page](TerminalLOgs.jpg)
-![DB Users](.jpg)
-![DB Favorites](HomePage.jpg)
+![Home Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SearchPage_results.PNG)
+
+![Results Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/ResultsPage.PNG)
+
+![SignIn Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/SignIn_RegisterPage.PNG)
+
+![Favorites Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
+
+![Terminal Page](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/terminal%20log.PNG)
+
+![DB Users](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Users.PNG)
+
+![DB Favorites](https://github.com/slsmi285/Project2_CosmicCocktails/blob/master/public/assets/img/Sql_Favorites.PNG)
 
 ## Built With
 
